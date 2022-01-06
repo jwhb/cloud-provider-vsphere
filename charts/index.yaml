@@ -16,7 +16,7 @@ entries:
     - cpi
     name: vsphere-cpi
     sources:
-    - https://github.com/kubernetes/cloud-provider-vsphere
+    - https://github.com/jwhb/cloud-provider-vsphere
     urls:
     - https://jwhb.github.io/cloud-provider-vsphere/vsphere-cpi-1.0.1.tgz
     version: 1.0.1
@@ -35,7 +35,7 @@ entries:
     - cpi
     name: vsphere-cpi
     sources:
-    - https://github.com/kubernetes/cloud-provider-vsphere
+    - https://github.com/jwhb/cloud-provider-vsphere
     urls:
     - https://jwhb.github.io/cloud-provider-vsphere/vsphere-cpi-1.0.0.tgz
     version: 1.0.0
